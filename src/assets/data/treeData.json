@@ -1,0 +1,986 @@
+{
+  "life": {
+    "name": "生命三因",
+    "children": [
+      {
+        "name": "隆",
+        "category": [
+          {
+            "categoryName": "索增隆",
+            "bodyParts": [
+              "肉",
+              "骨",
+              "头"
+            ],
+            "function": "维持生命正常活动"
+          },
+          {
+            "categoryName": "坚久隆",
+            "bodyParts": [
+              "胸"
+            ],
+            "function": "增强人的活力"
+          },
+          {
+            "categoryName": "恰布奇隆",
+            "bodyParts": [
+              "心脏"
+            ],
+            "function": "协调表情和运动"
+          },
+          {
+            "categoryName": "麦娘姆隆",
+            "bodyParts": [
+              "肠胃"
+            ],
+            "function": "分解和消化食物"
+          },
+          {
+            "categoryName": "吐塞隆",
+            "bodyParts": [
+              "肛门"
+            ],
+            "function": "排泄和分娩"
+          }
+        ],
+        "threeStates": [
+          {
+            "state": "增长",
+            "symptom": "肤黑，干瘦，喜热，身体颤抖，便秘，腹胀，肠鸣，多语，眩晕，体重减弱，睡眠减少，五官功能减退，识觉不聪"
+          },
+          {
+            "state": "紊乱",
+            "symptom": "脉象不耐按压；神志散乱，注意力不集中；头晕头痛，耳鸣舌燥；活动时背部疼痛，肢体僵直；汗毛竖立，失眠，呵欠频做，恶寒颤栗；黎明前后咳嗽，吐泡沫状痰液，夜晚腹胀腹鸣，午夜至黎明胃部有饿痛感"
+          },
+          {
+            "state": "损耗",
+            "symptom": "精力衰减，无聊话少，身体不适，记忆力衰退及出现培根增盛症状"
+          }
+        ],
+        "food": [
+          {
+            "foodName": "稻米",
+            "id": 1
+          },
+          {
+            "foodName": "小麦",
+            "id": 3
+          },
+          {
+            "foodName": "大麦，燕麦",
+            "id": 5
+          },
+          {
+            "foodName": "红豆",
+            "id": 8
+          },
+          {
+            "foodName": "芝麻",
+            "id": 10
+          },
+          {
+            "foodName": "胡麻",
+            "id": 11
+          },
+          {
+            "foodName": "绵羊肉",
+            "id": 12
+          },
+          {
+            "foodName": "旱獭肉",
+            "id": 22
+          },
+          {
+            "foodName": "陈酥油",
+            "id": 25
+          },
+          {
+            "foodName": "桶酥",
+            "id": 28
+          },
+          {
+            "foodName": "芝麻油",
+            "id": 30
+          },
+          {
+            "foodName": "芥子油",
+            "id": 31
+          },
+          {
+            "foodName": "骨髓油",
+            "id": 32
+          },
+          {
+            "foodName": "脂肪",
+            "id": 33
+          },
+          {
+            "foodName": "干姜",
+            "id": 37
+          },
+          {
+            "foodName": "阿魏",
+            "id": 40
+          },
+          {
+            "foodName": "藏茴香",
+            "id": 41
+          },
+          {
+            "foodName": "糌粑糊",
+            "id": 45
+          },
+          {
+            "foodName": "肉汤",
+            "id": 46
+          },
+          {
+            "foodName": "熟荨麻菜",
+            "id": 47
+          },
+          {
+            "foodName": "熟白蒜、青蒜",
+            "id": 51
+          },
+          {
+            "foodName": "熟黄精、川芎",
+            "id": 52
+          },
+          {
+            "foodName": "牛奶",
+            "id": 53
+          },
+          {
+            "foodName": "牦牛奶",
+            "id": 55
+          },
+          {
+            "foodName": "酒",
+            "id": 60
+          }
+        ],
+        "trMedical": "气性"
+      },
+      {
+        "name": "赤巴",
+        "threeStates": [
+          {
+            "state": "增长",
+            "symptom": "大小便色黄、皮肤发黄、巩膜黄染，消化力增强，容易饥渴，体温亦增，少睡失眠，便溏腹泻"
+          },
+          {
+            "state": "紊乱",
+            "symptom": "脉象洪大、细数而紧；头痛身热，口感酸苦，舌苔厚而灰黄，鼻腔干燥，目睛赤黄疼痛；夜晚失眠，白昼多眠；上吐下泻胆汁样或血液样物；肿块易迅速溃脓，脓液易感染其它部分机体；正午、夜晚时分食物正消化时，头眼疼痛严重"
+          },
+          {
+            "state": "损耗",
+            "symptom": "体温下降，肌肤失华，颜色发黑，触之冰冷"
+          }
+        ],
+        "category": [
+          {
+            "categoryName": "赤巴久切",
+            "bodyParts": [
+              "肠胃"
+            ],
+            "function": "产生热能，促进消化"
+          },
+          {
+            "categoryName": "赤巴当久",
+            "bodyParts": [
+              "肝脏"
+            ],
+            "function": "维持人体气色"
+          },
+          {
+            "categoryName": "赤巴朱切",
+            "bodyParts": [
+              "心脏"
+            ],
+            "function": "支配人的思想意识"
+          },
+          {
+            "categoryName": "赤巴同切",
+            "bodyParts": [
+              "眼睛"
+            ],
+            "function": "掌管视觉"
+          },
+          {
+            "categoryName": "赤巴多塞",
+            "bodyParts": [
+              "皮肤"
+            ],
+            "function": "使皮肤细腻、润泽"
+          }
+        ],
+        "food": [
+          {
+            "foodName": "稻米",
+            "id": 1
+          },
+          {
+            "foodName": "小麦",
+            "id": 3
+          },
+          {
+            "foodName": "大麦，燕麦",
+            "id": 5
+          },
+          {
+            "foodName": "鲜酥油",
+            "id": 24
+          },
+          {
+            "foodName": "糌粑糊",
+            "id": 45
+          },
+          {
+            "foodName": "牛奶",
+            "id": 53
+          }
+        ],
+        "trMedical": "热性"
+      },
+      {
+        "name": "培根",
+        "category": [
+          {
+            "categoryName": "培根登切",
+            "bodyParts": [
+              "胸"
+            ],
+            "function": "保持水分"
+          },
+          {
+            "categoryName": "培根尼牙切",
+            "bodyParts": [
+              "肠胃"
+            ],
+            "function": "磨碎食物"
+          },
+          {
+            "categoryName": "培根牛翁切",
+            "bodyParts": [
+              "舌"
+            ],
+            "function": "掌管味觉"
+          },
+          {
+            "categoryName": "培根次姆切",
+            "bodyParts": [
+              "头"
+            ],
+            "function": "产生满足的情绪"
+          },
+          {
+            "categoryName": "培根居尔切",
+            "bodyParts": [
+              "关节"
+            ],
+            "function": "润滑关节"
+          }
+        ],
+        "threeStates": [
+          {
+            "state": "增长",
+            "symptom": "体温下降，消化不良，身体沉重，神情懈怠，活动艰难，尿色青白，面色毗白，关节松弛，进取心消沉，痰唾增多，嗜睡多眠，呼吸困难"
+          },
+          {
+            "state": "紊乱",
+            "symptom": "脉象沉迟；口臭，味觉不灵，舌苔、齿馥呈灰白色，面部肿胀；头晕体沉，不思运动，消化力减退，食欲不振，呕吐或下利完谷或粘液状物；身体浮肿，甲状腺肿大，全身肿胀瘦赘增生；神志不清晰，嗜睡，倦怠无力，皮肤发痒，四肢僵硬，关节活动不灵便；阴雨天、黄昏、上午进食后，培根病易发作。"
+          },
+          {
+            "state": "损耗",
+            "symptom": "因培根所在部位的饮食精微和肌肉等盛衰，影响及头脑，则出现头晕、心颤、关节松弛"
+          }
+        ],
+        "food": [
+          {
+            "foodName": "稻米",
+            "id": 1
+          },
+          {
+            "foodName": "大麦，燕麦",
+            "id": 5
+          },
+          {
+            "foodName": "绵羊肉",
+            "id": 12
+          },
+          {
+            "foodName": "猪肉",
+            "id": 16
+          },
+          {
+            "foodName": "鱼肉",
+            "id": 23
+          },
+          {
+            "foodName": "桶酥",
+            "id": 28
+          },
+          {
+            "foodName": "芝麻油",
+            "id": 30
+          },
+          {
+            "foodName": "糌粑糊",
+            "id": 45
+          },
+          {
+            "foodName": "熟黄精、川芎",
+            "id": 52
+          },
+          {
+            "foodName": "酒",
+            "id": 60
+          }
+        ],
+        "trMedical": "湿性"
+      }
+    ]
+  },
+  "matter": {
+    "name": "七种物质",
+    "children": [
+      {
+        "name": "精微",
+        "stateClass": [
+          {
+            "state": "过盛",
+            "symptom": "消化不良,四肢无力，嗜睡,痰多"
+          },
+          {
+            "state": "虚损",
+            "symptom": "消瘦,吞咽困难"
+          }
+        ],
+        "value": 1
+      },
+      {
+        "name": "血",
+        "stateClass": [
+          {
+            "state": "过盛",
+            "symptom": "易患血病、癬病"
+          },
+          {
+            "state": "虚损",
+            "symptom": "脉干瘪，皮肤粗糙"
+          }
+        ],
+        "value": 1
+      },
+      {
+        "name": "肉",
+        "stateClass": [
+          {
+            "state": "过盛",
+            "symptom": "容易虚胖，生瘤"
+          },
+          {
+            "state": "虚损",
+            "symptom": "骨瘦如柴，关节疼痛"
+          }
+        ],
+        "value": 1
+      },
+      {
+        "name": "脂肪",
+        "stateClass": [
+          {
+            "state": "过盛",
+            "symptom": "乳房及小腹大"
+          },
+          {
+            "state": "虚损",
+            "symptom": "容易失眠，肤色发青 "
+          }
+        ],
+        "value": 1
+      },
+      {
+        "name": "骨",
+        "stateClass": [
+          {
+            "state": "过盛",
+            "symptom": "易生骨刺和牙"
+          },
+          {
+            "state": "虚损",
+            "symptom": "毛发、牙齿易脱落"
+          }
+        ],
+        "value": 1
+      },
+      {
+        "name": "骨髓",
+        "stateClass": [
+          {
+            "state": "过盛",
+            "symptom": "目不明,关节肿大"
+          },
+          {
+            "state": "虚损",
+            "symptom": "易盲，头昏"
+          }
+        ],
+        "value": 1
+      },
+      {
+        "name": "精液",
+        "stateClass": [
+          {
+            "state": "过盛",
+            "symptom": "性欲强，易患尿结石"
+          },
+          {
+            "state": "虚损",
+            "symptom": "易血尿"
+          }
+        ],
+        "value": 1
+      }
+    ]
+  },
+  "impurity": {
+    "name": "三种秽物",
+    "children": [
+      {
+        "name": "大便",
+        "stateClass": [
+          {
+            "state": "过盛",
+            "symptom": "易肠鸣，腹胀"
+          },
+          {
+            "state": "虚损",
+            "symptom": "易肠鸣，气逆行而胸闷"
+          }
+        ]
+      },
+      {
+        "name": "小便",
+        "stateClass": [
+          {
+            "state": "过盛",
+            "symptom": "易尿频，尿痛"
+          },
+          {
+            "state": "虚损",
+            "symptom": "尿液浓，色深而量少"
+          }
+        ]
+      },
+      {
+        "name": "汗液",
+        "stateClass": [
+          {
+            "state": "过盛",
+            "symptom": "汗液有臭味，易生皮肤病"
+          },
+          {
+            "state": "虚损",
+            "symptom": "皮肤皲裂，汗毛脱落"
+          }
+        ]
+      }
+    ]
+  },
+  "foods": {
+    "name": "root",
+    "children": [
+      {
+        "name": "粮食",
+        "children": [
+          {
+            "name": "芒类",
+            "children": [
+              {
+                "name": "稻米",
+                "id": 1,
+                "property": "凉",
+                "taste": "",
+                "function": "止泻止吐，增强阳气"
+              },
+              {
+                "name": "小米",
+                "id": 2,
+                "property": "凉",
+                "taste": "",
+                "function": "滋养身体，促使骨折愈合"
+              },
+              {
+                "name": "小麦",
+                "id": 3,
+                "property": "凉",
+                "taste": "",
+                "function": "滋养身体"
+              },
+              {
+                "name": "青稞",
+                "id": 4,
+                "property": "凉",
+                "taste": "甘",
+                "function": "增强体力，疏通肠道"
+              },
+              {
+                "name": "大麦，燕麦",
+                "id": 5,
+                "property": "凉",
+                "taste": "甘",
+                "function": "催生下胎"
+              }
+            ]
+          },
+          {
+            "name": "荚类",
+            "children": [
+              {
+                "name": "豌豆",
+                "id": 6,
+                "property": "凉",
+                "taste": [
+                  "涩",
+                  "甘"
+                ],
+                "function": "活血，治疗热病、毒病、腹泻"
+              },
+              {
+                "name": "印度白豆",
+                "id": 7,
+                "property": "凉",
+                "taste": [
+                  "涩",
+                  "甘"
+                ],
+                "function": "治疗多痰、呼吸苦难、痔疮、精液结石，生血"
+              },
+              {
+                "name": "红豆",
+                "id": 8,
+                "property": "凉",
+                "taste": [
+                  "涩",
+                  "甘"
+                ],
+                "function": "祛风、益精、增力"
+              },
+              {
+                "name": "荞麦",
+                "id": 9,
+                "property": "凉",
+                "taste": [
+                  "涩",
+                  "甘"
+                ],
+                "function": "加快伤口愈合"
+              },
+              {
+                "name": "芝麻",
+                "id": 10,
+                "property": "温",
+                "taste": "",
+                "function": "增强阳气"
+              },
+              {
+                "name": "胡麻",
+                "id": 11,
+                "property": "",
+                "taste": [
+                  "苦",
+                  "甘"
+                ],
+                "function": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "肉类",
+        "children": [
+          {
+            "name": "绵羊肉",
+            "id": 12,
+            "property": "",
+            "taste": "",
+            "function": "开胃消化，增强体力"
+          },
+          {
+            "name": "山羊肉",
+            "id": 13,
+            "property": "凉",
+            "taste": "",
+            "function": "治疗梅毒、食物中毒、黑天花、烧伤"
+          },
+          {
+            "name": "黄牛肉",
+            "id": 14,
+            "property": "凉",
+            "taste": "",
+            "function": "治疗火热、痰火、湿热"
+          },
+          {
+            "name": "水牛肉",
+            "id": 15,
+            "property": "",
+            "taste": "",
+            "function": "安神助眠"
+          },
+          {
+            "name": "猪肉",
+            "id": 16,
+            "property": "凉",
+            "taste": "",
+            "function": "清热，治疗疮伤"
+          },
+          {
+            "name": "牦牛肉",
+            "id": 17,
+            "property": "温",
+            "taste": "",
+            "function": "治疗寒症"
+          },
+          {
+            "name": "野牛肉",
+            "id": 18,
+            "property": "温",
+            "taste": "",
+            "function": "治疗寒性疾病"
+          },
+          {
+            "name": "马、驴、螺肉",
+            "id": 19,
+            "property": "",
+            "taste": "",
+            "function": "祛风化脓，治疗寒症"
+          },
+          {
+            "name": "鸡、雀肉",
+            "id": 20,
+            "property": "",
+            "taste": "",
+            "function": "增生精液，治疗疮疡"
+          },
+          {
+            "name": "野兔肉",
+            "id": 21,
+            "property": "温",
+            "taste": "",
+            "function": "增生，止泻，美容，防治冠心病、高血压"
+          },
+          {
+            "name": "旱獭肉",
+            "id": 22,
+            "property": "温",
+            "taste": "",
+            "function": "治疗瘰疬、疖痈、胃病、腰肾疾病、头部疾病"
+          },
+          {
+            "name": "鱼肉",
+            "id": 23,
+            "property": "温",
+            "taste": "",
+            "function": "开胃、明目，治疗胃病、疮疡、瘰疬"
+          }
+        ]
+      },
+      {
+        "name": "油脂",
+        "children": [
+          {
+            "name": "酥油",
+            "children": [
+              {
+                "name": "鲜酥油",
+                "id": 24,
+                "property": "凉",
+                "taste": "",
+                "function": "增强阳气，治疗肺病、血症、咳嗽、痔疮"
+              },
+              {
+                "name": "陈酥油",
+                "id": 25,
+                "property": "",
+                "taste": "",
+                "function": "疏通心窍，治疗狂症、癫痫、眩晕、健忘、神志不清"
+              },
+              {
+                "name": "炼酥油",
+                "id": 26,
+                "property": "",
+                "taste": "",
+                "function": "提神，增强记忆，润肤"
+              },
+              {
+                "name": "酸奶、胶乳",
+                "id": 27,
+                "property": "",
+                "taste": "",
+                "function": "开胃、安神、干燥大便、增强体力"
+              },
+              {
+                "name": "桶酥",
+                "id": 28,
+                "property": "温",
+                "taste": "",
+                "function": "增火热"
+              }
+            ]
+          },
+          {
+            "name": "植物油",
+            "children": [
+              {
+                "name": "菜油",
+                "id": 29,
+                "property": "温",
+                "taste": "甘",
+                "function": "润燥，通便，解毒"
+              },
+              {
+                "name": "芝麻油 ",
+                "id": 30,
+                "property": "温",
+                "taste": "甘",
+                "function": "治疗胃寒、头晕、便秘"
+              },
+              {
+                "name": "芥子油",
+                "id": 31,
+                "property": "",
+                "taste": "甘",
+                "function": ""
+              }
+            ]
+          },
+          {
+            "name": "骨髓油",
+            "id": 32,
+            "property": "",
+            "taste": "",
+            "function": "增强精力"
+          },
+          {
+            "name": "脂肪",
+            "id": 33,
+            "property": "",
+            "taste": "",
+            "function": "治疗关节炎、烧伤、脑病、耳病、子宫病"
+          }
+        ]
+      },
+      {
+        "name": "蔬菜和调料",
+        "children": [
+          {
+            "name": "鲜萝卜",
+            "id": 34,
+            "property": "温",
+            "taste": [
+              "辛",
+              "苦"
+            ],
+            "function": "破淤消结，镇咳祛痰，平喘顺气，增生胃火"
+          },
+          {
+            "name": "老萝卜",
+            "id": 35,
+            "property": "凉",
+            "taste": "香",
+            "function": "提升胃阳"
+          },
+          {
+            "name": "葱、蒜",
+            "id": 36,
+            "property": "温",
+            "taste": [
+              "辛",
+              "苦"
+            ],
+            "function": "祛风祛寒，解毒杀虫，消积止泻"
+          },
+          {
+            "name": "干姜",
+            "id": 37,
+            "property": "温",
+            "taste": "",
+            "function": "生阳"
+          },
+          {
+            "name": "花椒",
+            "id": 38,
+            "property": "",
+            "taste": "",
+            "function": "扩张脉管，疏通脉门"
+          },
+          {
+            "name": "食盐",
+            "id": 39,
+            "property": "",
+            "taste": "",
+            "function": "提味，提升胃阳，促进消化"
+          },
+          {
+            "name": "阿魏",
+            "id": 40,
+            "property": "温",
+            "taste": "辛",
+            "function": "散寒杀虫，治疗胃寒、腹胀、虫病"
+          },
+          {
+            "name": "藏茴香",
+            "id": 41,
+            "property": "温",
+            "taste": "辛",
+            "function": "健胃、驱风、理气，治疗眼病、食欲不振"
+          }
+        ]
+      },
+      {
+        "name": "熟食",
+        "children": [
+          {
+            "name": "鲜萝卜",
+            "id": 34,
+            "property": "温",
+            "taste": [
+              "辛",
+              "苦"
+            ],
+            "function": "破淤消结，镇咳祛痰，平喘顺气，增生胃火"
+          },
+          {
+            "name": "老萝卜",
+            "id": 35,
+            "property": "凉",
+            "taste": "香",
+            "function": "提升胃阳"
+          },
+          {
+            "name": "葱、蒜",
+            "id": 36,
+            "property": "温",
+            "taste": [
+              "辛",
+              "苦"
+            ],
+            "function": "祛风祛寒，解毒杀虫，消积止泻"
+          },
+          {
+            "name": "干姜",
+            "id": 37,
+            "property": "温",
+            "taste": "",
+            "function": "生阳"
+          },
+          {
+            "name": "花椒",
+            "id": 38,
+            "property": "",
+            "taste": "",
+            "function": "扩张脉管，疏通脉门"
+          },
+          {
+            "name": "食盐",
+            "id": 39,
+            "property": "",
+            "taste": "",
+            "function": "提味，提升胃阳，促进消化"
+          },
+          {
+            "name": "阿魏",
+            "id": 40,
+            "property": "温",
+            "taste": "辛",
+            "function": "散寒杀虫，治疗胃寒、腹胀、虫病"
+          },
+          {
+            "name": "藏茴香",
+            "id": 41,
+            "property": "温",
+            "taste": "辛",
+            "function": "健胃、驱风、理气，治疗眼病、食欲不振"
+          }
+        ]
+      },
+      {
+        "name": "饮料",
+        "children": [
+          {
+            "name": "饮用奶",
+            "children": [
+              {
+                "name": "牛奶",
+                "id": 53,
+                "property": "凉",
+                "taste": "甘",
+                "function": "增强体制、培元益精、美容"
+              },
+              {
+                "name": "黄牛奶",
+                "id": 54,
+                "property": "",
+                "taste": "",
+                "function": "益智、强身、美容、下奶，治疗肺病，瘟疫、尿频"
+              },
+              {
+                "name": "牦牛奶",
+                "id": 55,
+                "property": "温",
+                "taste": "",
+                "function": ""
+              },
+              {
+                "name": "山羊奶",
+                "id": 56,
+                "property": "凉",
+                "taste": "",
+                "function": "平喘，治疗烦渴、呼吸困难、瘟疫"
+              },
+              {
+                "name": "马奶、驴奶",
+                "id": 57,
+                "property": "",
+                "taste": [
+                  "辛",
+                  "酸",
+                  "咸"
+                ],
+                "function": "养肺祛风"
+              }
+            ]
+          },
+          {
+            "name": "水",
+            "children": [
+              {
+                "name": "雨水",
+                "id": 58,
+                "property": "凉",
+                "taste": "",
+                "function": "滋养精气，不伤胃、咽喉"
+              },
+              {
+                "name": "雪水",
+                "id": 59,
+                "property": "凉",
+                "taste": "",
+                "function": "降胃火"
+              }
+            ]
+          },
+          {
+            "name": "酒",
+            "id": 60,
+            "property": "",
+            "taste": "",
+            "function": "生热，增强体质，助眠"
+          }
+        ]
+      }
+    ]
+  }
+}

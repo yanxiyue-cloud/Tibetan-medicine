@@ -1,0 +1,1147 @@
+{
+  "long": {
+    "name": "赤巴病",
+    "discomfort": {
+      "name": "身体的不适",
+      "children": [
+        {
+          "name": "疼痛",
+          "children": [
+            {
+              "id": 59,
+              "text": "头痛",
+              "image": "disease59"
+            },
+            {
+              "id": 60,
+              "text": "胸背疼痛",
+              "image": "disease60"
+            }
+          ]
+        },
+        {
+          "name": "外在表现",
+          "children": [
+            {
+              "id": 61,
+              "text": "口苦",
+              "image": "disease61"
+            },
+            {
+              "id": 62,
+              "text": "发烧",
+              "image": "disease62"
+            }
+          ]
+        },
+        {
+          "name": "发病部位",
+          "children": [
+            {
+              "id": 63,
+              "text": "血",
+              "image": "disease63"
+            },
+            {
+              "id": 64,
+              "text": "汗",
+              "image": "disease64"
+            },
+            {
+              "id": 65,
+              "text": "目",
+              "image": "disease65"
+            },
+            {
+              "id": 66,
+              "text": "肝",
+              "image": "disease66"
+            },
+            {
+              "id": 67,
+              "text": "胆、肠",
+              "image": "disease67"
+            }
+          ]
+        }
+      ]
+    },
+    "diagnose": {
+      "name": "诊断",
+      "children": [
+        {
+          "name": "问诊",
+          "children": [
+            {
+              "id": 68,
+              "text": "饮食热、锐",
+              "image": "disease68"
+            },
+            {
+              "id": 69,
+              "text": "起居失调",
+              "image": "disease69"
+            },
+            {
+              "id": 70,
+              "text": "饮食后加重",
+              "image": "disease70"
+            },
+            {
+              "id": 71,
+              "text": "内服寒性药物或食物后减轻",
+              "image": "disease71"
+            }
+          ]
+        },
+        {
+          "name": "望诊",
+          "children": [
+            {
+              "id": 72,
+              "text": "舌淡黄、厚而腻",
+              "image": "disease72"
+            },
+            {
+              "id": 73,
+              "text": "尿色橙黄，有浓臭味",
+              "image": "disease73"
+            }
+          ]
+        },
+        {
+          "name": "触诊",
+          "children": [
+            {
+              "id": 74,
+              "text": "脉洪、弦、数",
+              "image": "disease74"
+            }
+          ]
+        }
+      ]
+    },
+    "cause": {
+      "name": "病因",
+      "children": [
+        {
+          "name": "饮食",
+          "children": [
+            {
+              "id": 75,
+              "text": "过多食用酸辛性热的食物",
+              "image": "disease75"
+            },
+            {
+              "id": 76,
+              "text": "消化不良",
+              "image": "disease76"
+            },
+            {
+              "id": 77,
+              "text": "饮食积滞",
+              "image": "disease77"
+            }
+          ]
+        },
+        {
+          "name": "情感",
+          "children": [
+            {
+              "id": 78,
+              "text": "嫉妒心强",
+              "image": "disease78"
+            },
+            {
+              "id": 79,
+              "text": "无形的嫉妒",
+              "image": "disease79"
+            }
+          ]
+        },
+        {
+          "name": "其他",
+          "children": [
+            {
+              "id": 80,
+              "text": "伤中要害",
+              "image": "disease80"
+            },
+            {
+              "id": 81,
+              "text": "接触污秽",
+              "image": "disease81"
+            },
+            {
+              "id": 82,
+              "text": "触犯神佛",
+              "image": "disease82"
+            },
+            {
+              "id": 83,
+              "text": "女魔作祟",
+              "image": "disease83"
+            },
+            {
+              "id": 84,
+              "text": "天神争斗",
+              "image": "disease84"
+            },
+            {
+              "id": 85,
+              "text": "魔鬼争斗",
+              "image": "disease85"
+            }
+          ]
+        }
+      ]
+    },
+    "cureFirst": {
+      "name": "治疗第一步 (饮食和起居)",
+      "children": [
+        {
+          "name": "食物",
+          "children": [
+            {
+              "id": 86,
+              "text": "牛、羊酸奶",
+              "image": "disease86"
+            },
+            {
+              "id": 87,
+              "text": "牛、羊清奶",
+              "image": "disease87"
+            },
+            {
+              "id": 88,
+              "text": "新鲜酥油",
+              "image": "disease88"
+            },
+            {
+              "id": 89,
+              "text": "草食野兽肉",
+              "image": "disease89"
+            },
+            {
+              "id": 90,
+              "text": "山羊肉",
+              "image": "disease90"
+            },
+            {
+              "id": 91,
+              "text": "犏牛肉",
+              "image": "disease91"
+            },
+            {
+              "id": 92,
+              "text": "青稞片",
+              "image": "disease92"
+            },
+            {
+              "id": 93,
+              "text": "含乳蒲公英",
+              "image": "disease93"
+            },
+            {
+              "id": 94,
+              "text": "蒲公英",
+              "image": "disease94"
+            }
+          ]
+        },
+        {
+          "name": "饮料",
+          "children": [
+            {
+              "id": 95,
+              "text": "热开水",
+              "image": "disease95"
+            },
+            {
+              "id": 96,
+              "text": "冰雪水",
+              "image": "disease96"
+            },
+            {
+              "id": 97,
+              "text": "冷开水",
+              "image": "disease97"
+            }
+          ]
+        },
+        {
+          "name": "起居",
+          "children": [
+            {
+              "id": 98,
+              "text": "宜住阴凉处",
+              "image": "disease98"
+            },
+            {
+              "id": 99,
+              "text": "安心静养",
+              "image": "disease99"
+            }
+          ]
+        }
+      ]
+    },
+    "cureSecond": {
+      "name": "治疗第二步 (药物和外治法)",
+      "children": [
+        {
+          "name": "汤药",
+          "children": [
+            {
+              "id": 100,
+              "text": "藏木香汤",
+              "image": "disease100"
+            },
+            {
+              "id": 101,
+              "text": "宽筋藤汤",
+              "image": "disease101"
+            },
+            {
+              "id": 102,
+              "text": "苦丁汤",
+              "image": "disease102"
+            },
+            {
+              "id": 103,
+              "text": "三果汤",
+              "image": "disease103"
+            }
+          ]
+        },
+        {
+          "name": "散剂",
+          "children": [
+            {
+              "id": 104,
+              "text": "冰片散",
+              "image": "disease104"
+            },
+            {
+              "id": 105,
+              "text": "檀香散",
+              "image": "disease105"
+            },
+            {
+              "id": 106,
+              "text": "红花散",
+              "image": "disease106"
+            },
+            {
+              "id": 107,
+              "text": "滑石散",
+              "image": "disease107"
+            }
+          ]
+        },
+        {
+          "name": "外治方法",
+          "children": [
+            {
+              "id": 108,
+              "text": "发汗",
+              "image": "disease108"
+            },
+            {
+              "id": 109,
+              "text": "放血",
+              "image": "disease109"
+            },
+            {
+              "id": 110,
+              "text": "冷水浴",
+              "image": "disease110"
+            }
+          ]
+        },
+        {
+          "name": "泻下法",
+          "children": [
+            {
+              "id": 111,
+              "text": "通用配方",
+              "image": "disease111"
+            },
+            {
+              "id": 112,
+              "text": "专用配方",
+              "image": "disease112"
+            },
+            {
+              "id": 113,
+              "text": "峻下药",
+              "image": "disease113"
+            },
+            {
+              "id": 114,
+              "text": "缓下药",
+              "image": "disease114"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "chiBa": {
+    "name": "隆病",
+    "discomfort": {
+      "name": "身体的不适",
+      "children": [
+        {
+          "name": "疼痛",
+          "children": [
+            {
+              "id": 1,
+              "text": "骨节疼痛",
+              "image": "disease1"
+            },
+            {
+              "id": 2,
+              "text": "全身串痛",
+              "image": "disease2"
+            }
+          ]
+        },
+        {
+          "name": "外在表现",
+          "children": [
+            {
+              "id": 3,
+              "text": "呵欠、颤抖",
+              "image": "disease3"
+            },
+            {
+              "id": 4,
+              "text": "欠伸",
+              "image": "disease4"
+            },
+            {
+              "id": 5,
+              "text": "干呕",
+              "image": "disease5"
+            },
+            {
+              "id": 6,
+              "text": "发冷",
+              "image": "disease6"
+            }
+          ]
+        },
+        {
+          "name": "其他症状",
+          "children": [
+            {
+              "id": 7,
+              "text": "烦躁不安",
+              "image": "disease7"
+            },
+            {
+              "id": 8,
+              "text": "五官失灵",
+              "image": "disease8"
+            }
+          ]
+        },
+        {
+          "name": "发病部位",
+          "children": [
+            {
+              "id": 9,
+              "text": "下身腰、髋部",
+              "image": "disease9"
+            },
+            {
+              "id": 10,
+              "text": "骨",
+              "image": "disease10"
+            },
+            {
+              "id": 11,
+              "text": "耳、皮",
+              "image": "disease11"
+            },
+            {
+              "id": 12,
+              "text": "排泄物",
+              "image": "disease12"
+            },
+            {
+              "id": 13,
+              "text": "心、命脉",
+              "image": "disease13"
+            },
+            {
+              "id": 14,
+              "text": "十二指肠",
+              "image": "disease14"
+            }
+          ]
+        }
+      ]
+    },
+    "diagnose": {
+      "name": "诊断",
+      "children": [
+        {
+          "name": "问诊",
+          "children": [
+            {
+              "id": 15,
+              "text": "饮食轻糙",
+              "image": "disease15"
+            },
+            {
+              "id": 16,
+              "text": "起居失调",
+              "image": "disease16"
+            },
+            {
+              "id": 17,
+              "text": "饥饿时加重",
+              "image": "disease17"
+            },
+            {
+              "id": 18,
+              "text": "进食营养食物后症状减轻",
+              "image": "disease18"
+            }
+          ]
+        },
+        {
+          "name": "望诊",
+          "children": [
+            {
+              "id": 19,
+              "text": "舌红而干燥粗糙",
+              "image": "disease19"
+            },
+            {
+              "id": 20,
+              "text": "尿清淡，搅动后泡沫大而多",
+              "image": "disease20"
+            }
+          ]
+        },
+        {
+          "name": "触诊",
+          "children": [
+            {
+              "id": 21,
+              "text": "脉浮、虚、细",
+              "image": "disease21"
+            }
+          ]
+        }
+      ]
+    },
+    "cause": {
+      "name": "病因",
+      "children": [
+        {
+          "name": "饮食",
+          "children": [
+            {
+              "id": 22,
+              "text": "过多食用味苦性轻的食物",
+              "image": "disease22"
+            },
+            {
+              "id": 23,
+              "text": "饥饿、失眠",
+              "image": "disease23"
+            },
+            {
+              "id": 24,
+              "text": "空腹过劳、失血过多",
+              "image": "disease24"
+            }
+          ]
+        },
+        {
+          "name": "情感",
+          "children": [
+            {
+              "id": 25,
+              "text": "痛哭、悲伤",
+              "image": "disease25"
+            },
+            {
+              "id": 26,
+              "text": "房事过度",
+              "image": "disease26"
+            },
+            {
+              "id": 27,
+              "text": "无形的情欲",
+              "image": "disease27"
+            }
+          ]
+        },
+        {
+          "name": "其他",
+          "children": [
+            {
+              "id": 28,
+              "text": "鼻出血，子宫出血",
+              "image": "disease28"
+            },
+            {
+              "id": 29,
+              "text": "放血过量",
+              "image": "disease29"
+            }
+          ]
+        }
+      ]
+    },
+    "cureFirst": {
+      "name": "治疗第一步 (饮食和起居)",
+      "children": [
+        {
+          "name": "食物",
+          "children": [
+            {
+              "id": 30,
+              "text": "马肉",
+              "image": "disease30"
+            },
+            {
+              "id": 31,
+              "text": "驴肉",
+              "image": "disease31"
+            },
+            {
+              "id": 32,
+              "text": "雪猪肉",
+              "image": "disease32"
+            },
+            {
+              "id": 33,
+              "text": "隔年肉",
+              "image": "disease33"
+            },
+            {
+              "id": 34,
+              "text": "葱",
+              "image": "disease34"
+            },
+            {
+              "id": 35,
+              "text": "菜籽油",
+              "image": "disease35"
+            },
+            {
+              "id": 36,
+              "text": "隔年酥油",
+              "image": "disease36"
+            },
+            {
+              "id": 37,
+              "text": "红糖",
+              "image": "disease37"
+            },
+            {
+              "id": 38,
+              "text": "蒜",
+              "image": "disease38"
+            },
+            {
+              "id": 39,
+              "text": "人肉",
+              "image": "disease39"
+            }
+          ]
+        },
+        {
+          "name": "饮料",
+          "children": [
+            {
+              "id": 40,
+              "text": "红糖青稞酒",
+              "image": "disease40"
+            },
+            {
+              "id": 41,
+              "text": "牛奶",
+              "image": "disease41"
+            },
+            {
+              "id": 42,
+              "text": "藏当归叶加黄精青稞酒",
+              "image": "disease42"
+            },
+            {
+              "id": 43,
+              "text": "牛骨汤青稞酒",
+              "image": "disease43"
+            }
+          ]
+        },
+        {
+          "name": "起居",
+          "children": [
+            {
+              "id": 44,
+              "text": "宜住温暖处",
+              "image": "disease44"
+            },
+            {
+              "id": 45,
+              "text": "有好友相伴",
+              "image": "disease45"
+            }
+          ]
+        }
+      ]
+    },
+    "cureSecond": {
+      "name": "治疗第二步 (药物和外治法)",
+      "children": [
+        {
+          "name": "汤药",
+          "children": [
+            {
+              "id": 46,
+              "text": "骨头汤",
+              "image": "disease46"
+            },
+            {
+              "id": 47,
+              "text": "四物汤",
+              "image": "disease47"
+            },
+            {
+              "id": 48,
+              "text": "陈羊头汤",
+              "image": "disease48"
+            }
+          ]
+        },
+        {
+          "name": "药油丸",
+          "children": [
+            {
+              "id": 49,
+              "text": "乌头药油丸",
+              "image": "disease49"
+            },
+            {
+              "id": 50,
+              "text": "肉豆蒄药油丸",
+              "image": "disease50"
+            },
+            {
+              "id": 51,
+              "text": "大蒜药油丸",
+              "image": "disease51"
+            },
+            {
+              "id": 52,
+              "text": "三果药油丸",
+              "image": "disease52"
+            },
+            {
+              "id": 53,
+              "text": "五根药油丸",
+              "image": "disease53"
+            }
+          ]
+        },
+        {
+          "name": "外治方法",
+          "children": [
+            {
+              "id": 54,
+              "text": "涂油按摩",
+              "image": "disease54"
+            },
+            {
+              "id": 55,
+              "text": "布卷热敷",
+              "image": "disease55"
+            }
+          ]
+        },
+        {
+          "name": "灌肠法",
+          "children": [
+            {
+              "id": 56,
+              "text": "一般灌肠",
+              "image": "disease56"
+            },
+            {
+              "id": 57,
+              "text": "瞌打灌肠",
+              "image": "disease57"
+            },
+            {
+              "id": 58,
+              "text": "吊悬灌肠",
+              "image": "disease58"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "peiGen": {
+    "name": "培根病",
+    "discomfort": {
+      "name": "身体的不适",
+      "children": [
+        {
+          "name": "外在表现",
+          "children": [
+            {
+              "id": 115,
+              "text": "呕吐",
+              "image": "disease115"
+            },
+            {
+              "id": 116,
+              "text": "腹胀",
+              "image": "disease116"
+            },
+            {
+              "id": 117,
+              "text": "身体冰冷",
+              "image": "disease117"
+            },
+            {
+              "id": 118,
+              "text": "消化不良",
+              "image": "disease118"
+            }
+          ]
+        },
+        {
+          "name": "其他症状",
+          "children": [
+            {
+              "id": 119,
+              "text": "无味",
+              "image": "disease119"
+            },
+            {
+              "id": 120,
+              "text": "呃逆",
+              "image": "disease120"
+            },
+            {
+              "id": 121,
+              "text": "疲倦",
+              "image": "disease121"
+            }
+          ]
+        },
+        {
+          "name": "发病部位",
+          "children": [
+            {
+              "id": 122,
+              "text": "头、脑",
+              "image": "disease122"
+            },
+            {
+              "id": 123,
+              "text": "乳头、肉、脂、髓、精",
+              "image": "disease123"
+            },
+            {
+              "id": 124,
+              "text": "粪、尿",
+              "image": "disease124"
+            },
+            {
+              "id": 125,
+              "text": "鼻、舌",
+              "image": "disease125"
+            },
+            {
+              "id": 126,
+              "text": "脾、肺、肾",
+              "image": "disease126"
+            },
+            {
+              "id": 127,
+              "text": "胃、膀胱、生殖器官",
+              "image": "disease127"
+            }
+          ]
+        }
+      ]
+    },
+    "diagnose": {
+      "name": "诊断",
+      "children": [
+        {
+          "name": "问诊",
+          "children": [
+            {
+              "id": 128,
+              "text": "饮食润、重",
+              "image": "disease128"
+            },
+            {
+              "id": 129,
+              "text": "起居失调",
+              "image": "disease129"
+            },
+            {
+              "id": 130,
+              "text": "食欲减退",
+              "image": "disease130"
+            },
+            {
+              "id": 131,
+              "text": "饮食后加重",
+              "image": "disease131"
+            },
+            {
+              "id": 132,
+              "text": "进食热性饮食协调起居后好转",
+              "image": "disease132"
+            }
+          ]
+        },
+        {
+          "name": "望诊",
+          "children": [
+            {
+              "id": 133,
+              "text": "舌淡白，湿而滑",
+              "image": "disease133"
+            },
+            {
+              "id": 134,
+              "text": "尿色发白，味淡",
+              "image": "disease134"
+            }
+          ]
+        },
+        {
+          "name": "触诊",
+          "children": [
+            {
+              "id": 135,
+              "text": "脉沉、迟、弱",
+              "image": "disease135"
+            }
+          ]
+        }
+      ]
+    },
+    "cause": {
+      "name": "病因",
+      "children": [
+        {
+          "name": "饮食",
+          "children": [
+            {
+              "id": 136,
+              "text": "过多食用寒苦甘的食物且缺乏运动",
+              "image": "disease136"
+            },
+            {
+              "id": 137,
+              "text": "饮食过饱，缺乏节制",
+              "image": "disease137"
+            }
+          ]
+        },
+        {
+          "name": "情感",
+          "children": [
+            {
+              "id": 138,
+              "text": "无形的愚昧",
+              "image": "disease138"
+            }
+          ]
+        },
+        {
+          "name": "其他",
+          "children": [
+            {
+              "id": 139,
+              "text": "睡眠过多，受潮",
+              "image": "disease139"
+            },
+            {
+              "id": 140,
+              "text": "沐浴受凉",
+              "image": "disease140"
+            },
+            {
+              "id": 141,
+              "text": "衣着单薄",
+              "image": "disease141"
+            }
+          ]
+        }
+      ]
+    },
+    "cureFirst": {
+      "name": "治疗第一步 (饮食和起居)",
+      "children": [
+        {
+          "name": "食物",
+          "children": [
+            {
+              "id": 142,
+              "text": "野牛肉",
+              "image": "disease142"
+            },
+            {
+              "id": 143,
+              "text": "肉食野兽的肉",
+              "image": "disease143"
+            },
+            {
+              "id": 144,
+              "text": "鱼肉",
+              "image": "disease144"
+            },
+            {
+              "id": 145,
+              "text": "羊肉",
+              "image": "disease145"
+            },
+            {
+              "id": 146,
+              "text": "蜂蜜",
+              "image": "disease146"
+            },
+            {
+              "id": 147,
+              "text": "旱地青稞热糌粑团",
+              "image": "disease147"
+            }
+          ]
+        },
+        {
+          "name": "饮料",
+          "children": [
+            {
+              "id": 148,
+              "text": "牦牛酸奶或清奶",
+              "image": "disease148"
+            },
+            {
+              "id": 149,
+              "text": "头道青稞酒",
+              "image": "disease149"
+            },
+            {
+              "id": 150,
+              "text": "热开水",
+              "image": "disease150"
+            }
+          ]
+        },
+        {
+          "name": "起居",
+          "children": [
+            {
+              "id": 151,
+              "text": "宜适当活动",
+              "image": "disease151"
+            },
+            {
+              "id": 152,
+              "text": "在温暖处居住",
+              "image": "disease152"
+            }
+          ]
+        }
+      ]
+    },
+    "cureSecond": {
+      "name": "治疗第二步 (药物和外治法)",
+      "children": [
+        {
+          "name": "丸药",
+          "children": [
+            {
+              "id": 153,
+              "text": "乌头丸",
+              "image": "disease153"
+            },
+            {
+              "id": 154,
+              "text": "矿盐丸",
+              "image": "disease154"
+            }
+          ]
+        },
+        {
+          "name": "散剂",
+          "children": [
+            {
+              "id": 155,
+              "text": "石榴散",
+              "image": "disease155"
+            },
+            {
+              "id": 156,
+              "text": "焦盐散",
+              "image": "disease156"
+            },
+            {
+              "id": 157,
+              "text": "热石灰散",
+              "image": "disease157"
+            },
+            {
+              "id": 158,
+              "text": "小杜鹃散",
+              "image": "disease158"
+            },
+            {
+              "id": 159,
+              "text": "炙寒水石散",
+              "image": "disease159"
+            }
+          ]
+        },
+        {
+          "name": "外治方法",
+          "children": [
+            {
+              "id": 160,
+              "text": "热敷",
+              "image": "disease160"
+            },
+            {
+              "id": 161,
+              "text": "艾灸",
+              "image": "disease161"
+            }
+          ]
+        },
+        {
+          "name": "催吐法",
+          "children": [
+            {
+              "id": 162,
+              "text": "剧吐药",
+              "image": "disease162"
+            },
+            {
+              "id": 163,
+              "text": "缓吐药",
+              "image": "disease163"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

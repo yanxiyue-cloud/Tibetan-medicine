@@ -1,0 +1,594 @@
+[
+  {
+    "name": "查痛器械",
+    "children": [
+      {
+        "name": "四肢伤探针",
+        "children": [
+          {
+            "id": 1,
+            "name": "圆头的四肢伤探针",
+            "function": "用于探查四肢骨折 ",
+            "long": 12,
+            "image": "surgical1"
+          },
+          {
+            "id": 2,
+            "name": "三角形头的四肢伤探针",
+            "function": "用于探查四肢骨折 ",
+            "long": 12,
+            "image": "surgical2"
+          },
+          {
+            "id": 3,
+            "name": "钩形头的四肢伤探针",
+            "function": "用于探查四肢骨折 ",
+            "long": 12,
+            "image": "surgical3"
+          },
+          {
+            "id": 4,
+            "name": "弯头的四肢伤探针",
+            "function": "用于探查四肢骨折 ",
+            "long": 12,
+            "image": "surgical4"
+          },
+          {
+            "id": 5,
+            "name": "直弯头的四肢伤探针",
+            "function": "用于探查四肢骨折 ",
+            "long": 12,
+            "image": "surgical5"
+          },
+          {
+            "id": 6,
+            "name": "蛇目形头的四肢伤探针",
+            "function": "用于探查四肢骨折 ",
+            "long": 12,
+            "image": "surgical6"
+          },
+          {
+            "id": 7,
+            "name": "长号形头的四肢伤探针",
+            "function": "用于探查四肢骨折 ",
+            "long": 12,
+            "image": "surgical7"
+          }
+        ]
+      },
+      {
+        "name": "其他",
+        "children": [
+          {
+            "id": 8,
+            "name": "头伤探针",
+            "function": "用于探查头部骨折 ",
+            "long": 6,
+            "image": "surgical8"
+          },
+          {
+            "id": 9,
+            "name": "查脓探针",
+            "function": "头部有孔，用于探查伤处脓液 ",
+            "long": 8,
+            "image": "surgical9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "割痔器械",
+    "children": [
+      {
+        "name": "肛门镜",
+        "children": [
+          {
+            "id": 10,
+            "name": "肛门镜",
+            "function": "用于检查肛门内痔疮 小的内径3指尖粗，大的男用五指尖粗，女用6指尖粗 ",
+            "long": 3,
+            "image": "surgical10"
+          },
+          {
+            "id": 11,
+            "name": "双孔肛门镜",
+            "function": "观察时使用 ",
+            "long": "",
+            "image": "surgical11"
+          },
+          {
+            "id": 12,
+            "name": "单孔肛门镜",
+            "function": "手术时使用 ",
+            "long": "",
+            "image": "surgical12"
+          }
+        ]
+      },
+      {
+        "name": "其他",
+        "children": [
+          {
+            "id": 13,
+            "name": "直肠镜",
+            "function": "内有多孔，便于检查直肠 ",
+            "long": "",
+            "image": "surgical13"
+          },
+          {
+            "id": 14,
+            "name": "切痔铲刀",
+            "function": "用于切痔 ",
+            "long": "",
+            "image": "surgical14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "手术钳、镊、刀",
+    "children": [
+      {
+        "name": "手术钳",
+        "children": [
+          {
+            "id": 15,
+            "name": "狮头手术钳",
+            "function": "可用于各种手术 ",
+            "long": 18,
+            "image": "surgical15"
+          },
+          {
+            "id": 16,
+            "name": "鹤嘴手术钳",
+            "function": "用于取出骨头上的异物 ",
+            "long": 18,
+            "image": "surgical16"
+          },
+          {
+            "id": 17,
+            "name": "鸦嘴手术钳",
+            "function": "用于取出骨头上的异物 ",
+            "long": 18,
+            "image": "surgical17"
+          },
+          {
+            "id": 18,
+            "name": "中空有芯手术钳",
+            "function": "用于取出深处异物 ",
+            "long": "",
+            "image": "surgical18"
+          },
+          {
+            "id": 19,
+            "name": "鸭嘴手术钳",
+            "function": "用于取出肉中或脉上的异物 ",
+            "long": 8,
+            "image": "surgical19"
+          },
+          {
+            "id": 20,
+            "name": "十八指长手术钳",
+            "function": "用于取出骨头上的铁器异物 ",
+            "long": 18,
+            "image": "surgical20"
+          }
+        ]
+      },
+      {
+        "name": "手术刀",
+        "children": [
+          {
+            "id": 21,
+            "name": "放血用羽状刀",
+            "function": "放血用 ",
+            "long": "",
+            "image": "surgical21"
+          },
+          {
+            "id": 22,
+            "name": "斜刃刀",
+            "function": "用于切开肘、颈部血管 ",
+            "long": "",
+            "image": "surgical22"
+          },
+          {
+            "id": 23,
+            "name": "斧状刀",
+            "function": "可用于切割血管、疮肿及骨折手术 ",
+            "long": "",
+            "image": "surgical23"
+          },
+          {
+            "id": 24,
+            "name": "弯月刀",
+            "function": "可用于切割血管、疮肿及骨折手术 ",
+            "long": "",
+            "image": "surgical24"
+          },
+          {
+            "id": 25,
+            "name": "平头刀",
+            "function": "可用于切割血管、疮肿及骨折手术 ",
+            "long": "",
+            "image": "surgical25"
+          },
+          {
+            "id": 26,
+            "name": "圆头刀",
+            "function": "可用于切割血管、疮肿及骨折手术 ",
+            "long": "",
+            "image": "surgical26"
+          },
+          {
+            "id": 27,
+            "name": "镰状刀",
+            "function": "可用于切割血管、疮肿及骨折手术 ",
+            "long": "",
+            "image": "surgical27"
+          },
+          {
+            "id": 28,
+            "name": "雀冠状刀(大)",
+            "function": "可用于切割血管、疮肿及骨折手术 ",
+            "long": "",
+            "image": "surgical28"
+          },
+          {
+            "id": 29,
+            "name": "雀冠状刀(小)",
+            "function": "可用于切割血管、疮肿及骨折手术 ",
+            "long": "",
+            "image": "surgical29"
+          }
+        ]
+      },
+      {
+        "name": "其他",
+        "children": [
+          {
+            "id": 30,
+            "name": "拔刺镊",
+            "function": "用于拔刺 ",
+            "long": "",
+            "image": "surgical30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "白内障器械",
+    "children": [
+      {
+        "name": "穿刺针",
+        "children": [
+          {
+            "id": 31,
+            "name": "青稞粒状穿刺针",
+            "function": "用于穿刺脊椎的痞块 ",
+            "long": "",
+            "image": "surgical31"
+          },
+          {
+            "id": 32,
+            "name": "鸟喙状穿刺针",
+            "function": "用于胸部排脓 ",
+            "long": "",
+            "image": "surgical32"
+          },
+          {
+            "id": 33,
+            "name": "牛角状穿刺针",
+            "function": "用于刺放腹水 ",
+            "long": "",
+            "image": "surgical33"
+          },
+          {
+            "id": 34,
+            "name": "蛙头状穿刺针",
+            "function": "用于心包穿刺 ",
+            "long": "",
+            "image": "surgical34"
+          },
+          {
+            "id": 35,
+            "name": "斜刃头穿刺针",
+            "function": "用于除脑内脓肿 ",
+            "long": "",
+            "image": "surgical35"
+          },
+          {
+            "id": 36,
+            "name": "矛头状穿刺针",
+            "function": "用于四肢及关节穿刺 ",
+            "long": "",
+            "image": "surgical36"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "挖匙和骨锯",
+    "children": [
+      {
+        "name": "挖匙",
+        "children": [
+          {
+            "id": 37,
+            "name": "单刃斧状挖匙",
+            "function": "",
+            "long": "",
+            "image": "surgical37"
+          },
+          {
+            "id": 38,
+            "name": "双刃斧状挖匙",
+            "function": "",
+            "long": "",
+            "image": "surgical38"
+          },
+          {
+            "id": 39,
+            "name": "钩形挖匙",
+            "function": "",
+            "long": "",
+            "image": "surgical39"
+          },
+          {
+            "id": 40,
+            "name": "锄状挖匙",
+            "function": "",
+            "long": "",
+            "image": "surgical40"
+          }
+        ]
+      },
+      {
+        "name": "骨锯",
+        "children": [
+          {
+            "id": 41,
+            "name": "骨锯刀(两种)",
+            "function": "用于去除多余骨头 ",
+            "long": "",
+            "image": "surgical41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "其他器械",
+    "children": [
+      {
+        "name": "手术用具",
+        "children": [
+          {
+            "id": 42,
+            "name": "筋脉刀",
+            "function": "用于切除受伤的筋腱 ",
+            "long": "",
+            "image": "surgical42"
+          },
+          {
+            "id": 43,
+            "name": "骨钻",
+            "function": "用于接骨时打孔 ",
+            "long": "",
+            "image": "surgical43"
+          },
+          {
+            "id": 44,
+            "name": "手术钩",
+            "function": "用于割除鼻、咽部息肉 ",
+            "long": "",
+            "image": "surgical44"
+          },
+          {
+            "id": 45,
+            "name": "子宫刀",
+            "function": "用于取出死胎 ",
+            "long": "",
+            "image": "surgical45"
+          },
+          {
+            "id": 46,
+            "name": "蛇形手术镊",
+            "function": "用于取出结石或异物 ",
+            "long": "",
+            "image": "surgical46"
+          }
+        ]
+      },
+      {
+        "name": "烧灼器",
+        "children": [
+          {
+            "id": 47,
+            "name": "直弯烧灼器",
+            "function": "用于烧治虫牙 ",
+            "long": "",
+            "image": "surgical47"
+          },
+          {
+            "id": 48,
+            "name": "扁桃体烧灼器",
+            "function": "治疗扁桃体 ",
+            "long": "",
+            "image": "surgical48"
+          },
+          {
+            "id": 49,
+            "name": "黄水抽吸器",
+            "function": "抽取黄水 ",
+            "long": "",
+            "image": "surgical49"
+          },
+          {
+            "id": 50,
+            "name": "金属烧灼器",
+            "function": "用于烧灼皮肤肿瘤 ",
+            "long": "",
+            "image": "surgical50"
+          },
+          {
+            "id": 51,
+            "name": "铁质烧灼器",
+            "function": "",
+            "long": "",
+            "image": "surgical51"
+          },
+          {
+            "id": 52,
+            "name": "黄铜烧灼器",
+            "function": "",
+            "long": "",
+            "image": "surgical52"
+          },
+          {
+            "id": 53,
+            "name": "紫铜烧灼器",
+            "function": "",
+            "long": "",
+            "image": "surgical53"
+          },
+          {
+            "id": 54,
+            "name": "舌部烧灼器",
+            "function": "",
+            "long": "",
+            "image": "surgical54"
+          },
+          {
+            "id": 55,
+            "name": "多孔烧灼器",
+            "function": "",
+            "long": "",
+            "image": "surgical55"
+          }
+        ]
+      },
+      {
+        "name": "辅助用具",
+        "children": [
+          {
+            "id": 56,
+            "name": "导尿管",
+            "function": "导尿用，似麦秆粗，中空 ",
+            "long": 12,
+            "image": "surgical56"
+          },
+          {
+            "id": 57,
+            "name": "熏药小壶(双叉)",
+            "function": "用于熏药 ",
+            "long": 10,
+            "image": "surgical57"
+          },
+          {
+            "id": 58,
+            "name": "熏药小壶(三叉)",
+            "function": "用于熏药 ",
+            "long": 10,
+            "image": "surgical58"
+          },
+          {
+            "id": 59,
+            "name": "吹药器",
+            "function": "中空，可将药粉吹敷于咽喉部 ",
+            "long": "",
+            "image": "surgical59"
+          },
+          {
+            "id": 60,
+            "name": "灌肠器",
+            "function": "灌肠 ",
+            "long": "",
+            "image": "surgical60"
+          },
+          {
+            "id": 61,
+            "name": "牛角罐",
+            "function": "",
+            "long": "",
+            "image": "surgical61"
+          },
+          {
+            "id": 62,
+            "name": "月牙状剃发刀",
+            "function": "用于剃发 ",
+            "long": "",
+            "image": "surgical62"
+          },
+          {
+            "id": 63,
+            "name": "药匙",
+            "function": "",
+            "long": "",
+            "image": "surgical63"
+          },
+          {
+            "id": 64,
+            "name": "骨挫",
+            "function": "",
+            "long": "",
+            "image": "surgical64"
+          },
+          {
+            "id": 65,
+            "name": "药挫",
+            "function": "",
+            "long": "",
+            "image": "surgical65"
+          },
+          {
+            "id": 66,
+            "name": "缝针",
+            "function": "",
+            "long": "",
+            "image": "surgical66"
+          },
+          {
+            "id": 67,
+            "name": "眼药点药器",
+            "function": "用于眼药点药 ",
+            "long": "",
+            "image": "surgical67"
+          },
+          {
+            "id": 68,
+            "name": "眼罩",
+            "function": "用于罩眼 ",
+            "long": "",
+            "image": "surgical68"
+          },
+          {
+            "id": 69,
+            "name": "绷脉器",
+            "function": "用于绷脉 ",
+            "long": "",
+            "image": "surgical69"
+          },
+          {
+            "id": 70,
+            "name": "带盖药筛",
+            "function": "",
+            "long": "",
+            "image": "surgical70"
+          },
+          {
+            "id": 71,
+            "name": "药帚",
+            "function": "",
+            "long": "",
+            "image": "surgical71"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,674 @@
+[
+    {
+        "time": "公元前2世纪",
+        "stage": "启蒙时期",
+        "position": "印度",
+        "longlatitude": [
+            78.96734,
+            20.61590
+        ],
+        "direction": "external",
+        "inout": "in",
+        "spreadType": "religion",
+        "describe": "在西汉时期张骞出使西域，在两汉时期，印度佛教经由丝绸之路传入西藏和内地。",
+        "outcome": "印度佛教经"
+    },
+    {
+        "time": "639年",
+        "stage": "奠基时期",
+        "position": "尼泊尔",
+        "longlatitude": [
+            82.18387,
+            28.48675
+        ],
+        "direction": "external",
+        "inout": "in",
+        "spreadType": "interact",
+        "describe": "尼泊尔的尺尊嫁往松赞干布，经商贸易开始繁荣。",
+        "outcome": "促进了藏医药文化与尼泊尔传统的医学文化的交流"
+    },
+    {
+        "time": "641年",
+        "stage": "奠基时期",
+        "position": "西安",
+        "longlatitude": [
+            108.94647,
+            34.34727
+        ],
+        "direction": "internal",
+        "inout": "in",
+        "spreadType": "book",
+        "describe": "文成公主进藏，带着404种药方、5种诊断法、6种医疗器械及4种医学论著来到吐蕃，由吐蕃大译师达玛郭卡、汉医马哈德瓦和尚将这些中医药学书籍与象雄医学结合起来，编译成《医疗大全》，为藏医药学的发展奠定了宝贵基础。",
+        "outcome": "《医疗大全》、《无畏的武器》"
+    },
+    {
+        "time": "7世纪",
+        "stage": "奠基时期",
+        "position": "西安",
+        "longlatitude": [
+            108.94647,
+            34.34727
+        ],
+        "direction": "internal",
+        "inout": "out",
+        "spreadType": "medicine",
+        "describe": "汉藏两族开始以药材商品交易为中介的医学文化交流互鉴。",
+        "outcome": "姜黄、紫参、肉从蓉、醒酮、豹膏、熊膏等"
+    },
+    {
+        "time": "7世纪",
+        "stage": "奠基时期",
+        "position": "西安",
+        "longlatitude": [
+            108.94647,
+            34.34727
+        ],
+        "direction": "internal",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "藏族和汉族进一步交流。",
+        "outcome": "治骨蒸方"
+    },
+    {
+        "time": "7世纪",
+        "stage": "奠基时期",
+        "position": "西安",
+        "longlatitude": [
+            108.94647,
+            34.34727
+        ],
+        "direction": "internal",
+        "inout": "in",
+        "spreadType": "religion",
+        "describe": "道家的炼丹术对藏医药的实践也有着深远的影响。",
+        "outcome": "“佐塔”制作技艺"
+    },
+    {
+        "time": "710年",
+        "stage": "奠基时期",
+        "position": "西安",
+        "longlatitude": [
+            108.94647,
+            34.34727
+        ],
+        "direction": "internal",
+        "inout": "in",
+        "spreadType": "book",
+        "describe": "唐中宗命左骁卫大将军杨矩护送金城公主入蕃，嫁予吐蕃赞普赤德祖赞。",
+        "outcome": "《月王药诊》"
+    },
+    {
+        "time": "8世纪",
+        "stage": "奠基时期",
+        "position": "印度",
+        "longlatitude": [
+            78.96734,
+            20.61590
+        ],
+        "direction": "external",
+        "inout": "in",
+        "spreadType": "interact",
+        "describe": "老宇妥赴印度等国三次，认真学习和研究了印度医药学理论。",
+        "outcome": "为著作《四部医典》奠定了基础"
+    },
+    {
+        "time": "8世纪",
+        "stage": "奠基时期",
+        "position": "五台山",
+        "longlatitude": [
+            113.26145,
+            38.73418
+        ],
+        "direction": "internal",
+        "inout": "in",
+        "spreadType": "interact",
+        "describe": "老宇妥赴汉地五台山一次，认真学习和研究了汉族医药学理论。",
+        "outcome": "为著作《四部医典》奠定了基础"
+    },
+    {
+        "time": "10、11世纪",
+        "stage": "形成时期",
+        "position": "印度",
+        "longlatitude": [
+            78.96734,
+            20.61590
+        ],
+        "direction": "external",
+        "inout": "in",
+        "spreadType": "book",
+        "describe": "从公元10、11世纪开始，随着众多的吐蕃大译师们将包括医学内容在内的佛教经典大规模地从梵文翻译成藏文，藏医学大量吸收印度阿输吠陀医学精华，进一步得到丰富和发展并向周围地区传播开来。",
+        "outcome": "包括医学内容在内的佛教经典大规模地从梵文翻译成藏文"
+    },
+    {
+        "time": "11世纪",
+        "stage": "形成时期",
+        "position": "开封",
+        "longlatitude": [
+            114.45219,
+            34.72600
+        ],
+        "direction": "internal",
+        "inout": "in",
+        "spreadType": "book",
+        "describe": "新宇妥·云丹贡布鉴或吸收了从汉地传来的《月王药诊》之精华，以及《月光》、《八支医要》等医著。",
+        "outcome": "《大小八支医要集》"
+    },
+    {
+        "time": "1042年",
+        "stage": "形成时期",
+        "position": "印度",
+        "longlatitude": [
+            78.96734,
+            20.61590
+        ],
+        "direction": "external",
+        "inout": "in",
+        "spreadType": "religion",
+        "describe": "印度著名僧人阿底峡人藏弘法。",
+        "outcome": "《补精壮阳甘露秘方》《头部伤痛固定治疗》被译为藏文"
+    },
+    {
+        "time": "12世纪",
+        "stage": "形成时期",
+        "position": "印度",
+        "longlatitude": [
+            78.96734,
+            20.61590
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "medicine",
+        "describe": "萨迦喀巴派遣了他的弟子之一桑布扎·德旺久杰前往印度，与当地的佛教徒和医生进行交流，并将藏医药传播到了印度。",
+        "outcome": "《四部心要》、印度的许多珍贵的药材"
+    },
+    {
+        "time": "1420年",
+        "stage": "发展时期",
+        "position": "北京",
+        "longlatitude": [
+            116.41339,
+            39.91092
+        ],
+        "direction": "internal",
+        "inout": "out",
+        "spreadType": "medicine",
+        "describe": "在明朝永乐年间，“茶马古道”可以从四川雅安通往西藏，汉人与藏人交换茶、马、药材进行贸易在四川、甘肃设立市场进行交流往来，藏药材逐渐传入内地。",
+        "outcome": "松洲孤米、蜘蛛香、藏香、藏红花、野\n马豆等"
+    },
+    {
+        "time": "17世纪",
+        "stage": "发展时期",
+        "position": "蒙古",
+        "longlatitude": [
+            104.64940,
+            28.75801
+        ],
+        "direction": "internal",
+        "inout": "out",
+        "spreadType": "religion",
+        "describe": "17世纪开始，伴随蒙古各部纷纷皈依藏传佛教格鲁派，藏医学也迅速传播到了这些地区，并成为当地的主流医学。",
+        "outcome": "藏医学成为蒙古各地区主流医学"
+    },
+    {
+        "time": "1623-1680",
+        "stage": "发展时期",
+        "position": "奥地利",
+        "longlatitude": [
+            16.37382,
+            48.20818
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "religion",
+        "describe": "奥地利传教士约翰·格留伯到达拉萨并探索一条从北京经西藏通往欧洲路线。",
+        "outcome": "布达拉宫的草图、《中国图说》"
+    },
+    {
+        "time": "17世纪下半叶",
+        "stage": "兴盛时期",
+        "position": "俄罗斯布尼亚特",
+        "longlatitude": [
+            107.58086,
+            53.33493
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "religion",
+        "describe": "藏传佛教在贝加尔湖地区布里亚特蒙古部族中传播，作为藏传佛教知识体系“十明”之“医方明”的藏医学也随之传来。",
+        "outcome": "传播“十明”之“医方明”的藏医学"
+    },
+    {
+        "time": "1712年",
+        "stage": "兴盛时期",
+        "position": "俄罗斯布尼亚特",
+        "longlatitude": [
+            108.58085,
+            52.33491
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "religion",
+        "describe": "1712年，一个大约150人左右的藏传佛教僧团从西藏途径蒙古来到布里亚特地区传教，其中 有 一 位 名 叫曲吉阿旺彭措的藏医，据说是布里亚特地区最重要的藏医传播者。",
+        "outcome": "传播藏传佛教至布尼亚特地区"
+    },
+    {
+        "time": "1716年",
+        "stage": "兴盛时期",
+        "position": "意大利",
+        "longlatitude": [
+            12.49637,
+            41.90278
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "天主教耶稣会传教士伊波利托·德西德里进入拉萨附近的色拉寺学习。",
+        "outcome": "翻译了宗喀巴大师的名著《菩提道次第广论》"
+    },
+    {
+        "time": "1716年",
+        "stage": "兴盛时期",
+        "position": "意大利",
+        "longlatitude": [
+            12.49637,
+            41.90278
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "religion",
+        "describe": "圣方济各会的奥拉济奥在西藏生活了20多年，期间除了相关的传教使命和救济活动，还深深地投入到相关研究活动当中。他的作品主要包括信函、藏文佛教典籍的翻译、文章和报告。",
+        "outcome": "编写了第一部藏文词典《藏意词典》，翻译了《中阴得度》、《佛所行赞》"
+    },
+    {
+        "time": "18世纪20年代",
+        "stage": "兴盛时期",
+        "position": "额尔齐斯河流域",
+        "longlatitude": [
+            85.12326,
+            46.26979
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "一批藏文抄本在位于额尔齐斯河流域的阿卜赖寺被人发现。",
+        "outcome": "将藏文抄本翻译为俄文、拉丁文，出版《西伯利亚唐古特抄本考释》"
+    },
+    {
+        "time": "1741年",
+        "stage": "兴盛时期",
+        "position": "俄罗斯",
+        "longlatitude": [
+            37.61501,
+            55.75696
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "religion",
+        "describe": "根据女皇伊丽莎白·彼得罗芙娜（1709-1762）的谕旨，俄国政府正式承认了佛教的地位。",
+        "outcome": "佛教逐渐成为布里亚特人的主要信仰"
+    },
+    {
+        "time": "18世纪上半叶",
+        "stage": "兴盛时期",
+        "position": "尼泊尔",
+        "longlatitude": [
+            85.32579,
+            27.71903
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "medicine",
+        "describe": "在廓尔喀王朝建立之后，清朝准许尼泊尔商人每年来藏三次。",
+        "outcome": "藏药材成为西藏出口尼泊尔的大宗货物之一"
+    },
+    {
+        "time": "1745年",
+        "stage": "兴盛时期",
+        "position": "北京",
+        "longlatitude": [
+            116.41339,
+            39.91092
+        ],
+        "direction": "internal",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "北京雍和宫成立曼巴扎仓 , 培养不同民族的藏医学生。",
+        "outcome": "北京地区建立曼巴扎仓"
+    },
+    {
+        "time": "1745年",
+        "stage": "兴盛时期",
+        "position": "内蒙古",
+        "longlatitude": [
+            111.44083,
+            40.58997
+        ],
+        "direction": "internal",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "在内蒙古哈力哈和西霍尔等著名大寺院内建立藏医曼巴扎仓培养蒙族学生 , 由此藏医在蒙古族地区进一步发展起来。",
+        "outcome": "内蒙古地区建立曼巴扎仓"
+    },
+    {
+        "time": "18世纪末",
+        "stage": "停滞时期",
+        "position": "俄罗斯",
+        "longlatitude": [
+            37.61501,
+            55.75696
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "俄罗斯探险家格鲁姆-格里姆梅伊洛夫到达西藏，并与当地的僧人和医生进行交流，收集了大量的关于西藏文化和历史的资料，他收集到的资料带回俄罗斯，并发表了《North-West China》一书，其中介绍了他对西藏文化和历史的见闻。",
+        "outcome": "《North-West China》"
+    },
+    {
+        "time": "1815年",
+        "stage": "停滞时期",
+        "position": "不丹",
+        "longlatitude": [
+            89.68519,
+            27.44310
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "克里希纳·坎塔·波色为特使，赴不丹处理危机。",
+        "outcome": "编写了用孟加拉语写成的印度第一本藏语语法词典。"
+    },
+    {
+        "time": "1826年",
+        "stage": "停滞时期",
+        "position": "印度塞兰坡",
+        "longlatitude": [
+            78.96734,
+            20.61590
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "弗里德里希·克里斯蒂安·戈特霍夫·施罗特将《藏意词典》翻译成英文并以自己的名字于1826年在印度塞兰坡 出版，定名为《藏语和不丹语词典》。",
+        "outcome": "《藏语和不丹语词典》"
+    },
+    {
+        "time": "1817—1883年",
+        "stage": "停滞时期",
+        "position": "德国",
+        "longlatitude": [
+            13.40495,
+            52.52001
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "religion",
+        "describe": "德国是传教士海因利希·奥古斯特·耶希卡进行传教和《圣经》的藏文翻译，用藏文写过不少书。",
+        "outcome": "《藏英字典》、《藏文文法》"
+    },
+    {
+        "time": "1869年",
+        "stage": "停滞时期",
+        "position": "俄罗斯布尼亚特",
+        "longlatitude": [
+            108.58085,
+            52.33491
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "著名医学家曲曼然巴在今赤塔州的宗果寺内建立了布里亚特地区第一个曼巴扎仓。",
+        "outcome": "布里亚特地区第一个曼巴扎仓"
+    },
+    {
+        "time": "19世纪中期到20世纪30年代",
+        "stage": "停滞时期",
+        "position": "俄罗斯布尼亚特",
+        "longlatitude": [
+            108.58085,
+            52.33491
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "从19世纪中期到20世纪30年代，大多数藏文和蒙古文的藏医文献在布里亚特的寺院里都得到了印制。",
+        "outcome": "高质量的藏文、蒙古文藏医文献印制"
+    },
+    {
+        "time": "1903年",
+        "stage": "停滞时期",
+        "position": "俄罗斯圣彼得堡",
+        "longlatitude": [
+            30.30604,
+            59.93318
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "巴德玛耶夫在西德对圣彼得堡出版了根据《四部医典》蒙文版译出的俄文版《四部医典》。",
+        "outcome": "俄文版《四部医典》"
+    },
+    {
+        "time": "1906—1910",
+        "stage": "停滞时期",
+        "position": "法国",
+        "longlatitude": [
+            2.35222,
+            48.85662
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "雅克·巴科前后两次赴西藏东南部进行考察，穿越澜沧江上游，到达打箭炉(康定)西北的雅砻地区。",
+        "outcome": "1940年与图散和托玛斯合作出版了《敦煌吐蕃历史文书》"
+    },
+    {
+        "time": "1928-1948",
+        "stage": "停滞时期",
+        "position": "意大利",
+        "longlatitude": [
+            12.49637,
+            41.90278
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "从1928年到1948年，意大利学者朱塞佩·图齐完成了8项科学任务，其中6项在西藏西部，另外的2项在西藏中部。拓展了意大利和西方世界对于西藏和印藏佛教的了解。",
+        "outcome": "《印度一西藏》、《西藏画卷》"
+    },
+    {
+        "time": "1935年",
+        "stage": "停滞时期",
+        "position": "南京",
+        "longlatitude": [
+            118.80242,
+            32.06465
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "南京国民政府开办藏语广播节目。",
+        "outcome": "藏语广播节目"
+    },
+    {
+        "time": "1961年",
+        "stage": "复兴时期",
+        "position": "日本",
+        "longlatitude": [
+            139.76489,
+            35.68208
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "日本藏学家芳村修基，1961 年在《西域文化研究（ 四） 》中，发表了“西藏医学文献的残叶”一文。",
+        "outcome": "《西域文化研究（ 四） 》"
+    },
+    {
+        "time": "1969年",
+        "stage": "复兴时期",
+        "position": "瑞士苏黎世",
+        "longlatitude": [
+            8.51937,
+            47.34939
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "medicine",
+        "describe": "彼得白玛在一名瑞士籍的商人卡尔·鲁兹的帮助在苏黎士成立了瑞士PADMA AG（白玛）公司，用现代化的生产手段生产和销售白玛家族的藏药。",
+        "outcome": "西方第一个专业生产和销售藏药的公司"
+    },
+    {
+        "time": "1971年",
+        "stage": "复兴时期",
+        "position": "印度",
+        "longlatitude": [
+            78.96734,
+            20.61590
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "medicine",
+        "describe": "印度著名藏学家，印度文化国际研究院教授倩得拉，主要从事研究藏族历史、宗教。 1971年与别人合著了《藏族知识文库》一书。 这部著作里谈到古印度医学和藏族医学关系，并对《四部医典》第二部（ 论说医典） 和藏药学方面作了解释。",
+        "outcome": "《藏族知识文库》"
+    },
+    {
+        "time": "1976年",
+        "stage": "复兴时期",
+        "position": "德国",
+        "longlatitude": [
+            13.40495,
+            52.52001
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "西德学者芬克出版了目前在西方藏学界公认的比较优秀的译本、具有较高的学术影响力的书《藏医学基础：根据<居希>一书》。",
+        "outcome": "《藏医学基础：根据<居希>一书》"
+    },
+    {
+        "time": "1970年",
+        "stage": "全新发展阶段",
+        "position": "澳大利亚堪培拉",
+        "longlatitude": [
+            149.12766,
+            -35.28271
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "“国际亚州传统医学研讨会”1979年9月在澳大利亚堪培拉举行，参加会议的代表有中国、朝鲜、日本、印度、巴基斯坦、泰国、新加坡、马来西亚、印度尼西亚、伊郎、沙特阿拉伯、瑞典、英国、加拿大、美国等国家和地区的学者，藏医药学在此次会议上是主要研讨对象。",
+        "outcome": "“国际亚州传统医学研讨会”的召开"
+    },
+    {
+        "time": "1983年",
+        "stage": "全新发展阶段",
+        "position": "意大利",
+        "longlatitude": [
+            12.49637,
+            41.90278
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "意大利藏民、挪威大学教授南卡诺布，于1983年在意大利出版《血统和生命》一书， 书中着重论述藏医学与宗教尤其是笨教的关系。",
+        "outcome": "《血统和生命》"
+    },
+    {
+        "time": "1983年",
+        "stage": "全新发展阶段",
+        "position": "美国纽约",
+        "longlatitude": [
+            -73.86483,
+            40.84478
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "1983年，美国成立了西藏医学协会，其宗旨主要是研究在西方发展藏医药。",
+        "outcome": "西藏医学协会"
+    },
+    {
+        "time": "1983年",
+        "stage": "全新发展阶段",
+        "position": "意大利威尼斯",
+        "longlatitude": [
+            12.31552,
+            45.44085
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "1983年由意大利佐诚协会的应用医学心理学中心主办的“第一届国际藏医学会议”，此次会议在意大利分两阶段举行，第一阶段(4月26日一30日）在威尼斯举行。",
+        "outcome": "第一届国际藏医学会议召开"
+    },
+    {
+        "time": "1983年",
+        "stage": "全新发展阶段",
+        "position": "意大利阿西多索",
+        "longlatitude": [
+            11.24862,
+            43.77105
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "1983年由意大利佐诚协会的应用医学心理学中心主办的“第一届国际藏医学会议”，此次会议在意大利分两阶段举行，第二阶段(5月2—8日）会议转移到阿西多索市继续举行。",
+        "outcome": "第一届国际藏医学会议召开"
+    },
+    {
+        "time": "1986年",
+        "stage": "全新发展阶段",
+        "position": "英国伦敦",
+        "longlatitude": [
+            -0.12776,
+            51.50735
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "book",
+        "describe": "英国威尔康医史研究所发起召开了“关于中亚文献中所反映的古典藏医学的医学史学术研讨会”。",
+        "outcome": "《若干藏医彩色“汤卡”》、《传统藏医学的胚胎学问题》、《蒙古传统医学的书面起源》"
+    },
+    {
+        "time": "1998年",
+        "stage": "全新发展阶段",
+        "position": "美国华盛顿",
+        "longlatitude": [
+            -77.03687,
+            38.90719
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "第一届国际藏医药学术研讨会在美国华盛顿召开，会议主要就传统藏医药的现状和实践、临床验证、文献研究、精神疗法的应用、资源的保护及利用等方面进行了交流和讨论。",
+        "outcome": "第一届国际藏医药学术研讨会召开"
+    },
+    {
+        "time": "2014年",
+        "stage": "现阶段",
+        "position": "尼泊尔",
+        "longlatitude": [
+            82.18387,
+            28.48675
+        ],
+        "direction": "external",
+        "inout": "out",
+        "spreadType": "interact",
+        "describe": "在“一带一路”政策下，中国与南亚通过国际大通道联系密切，加深了中国与尼泊尔的交流。",
+        "outcome": "沿边界地带的经济技术合作协定以及传统医药研究所项目陆续在中尼之间签订"
+    },
+    {
+        "time": "2020年",
+        "stage": "现阶段",
+        "position": "湖北",
+        "longlatitude": [
+            114.34844,
+            30.55160
+        ],
+        "direction": "internal",
+        "inout": "out",
+        "spreadType": "medicine",
+        "describe": "藏医医院制剂中心生产的藏医“九味防瘟香囊”10000 粒和甘露藏药生产的 10 箱疫用藏香寄往湖北省中西医结合医院等医疗机构抗疫一线。",
+        "outcome": "九味防瘟香囊"
+    }
+]
